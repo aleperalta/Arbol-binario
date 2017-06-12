@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\bin\Debug\ape_arbolBinario.exe.config
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.Properties.Resources.resources
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.csproj.GenerateResource.Cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\bin\Debug\ape_arbolBinario.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\bin\Debug\ape_arbolBinario.pdb
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.pdb
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_arbolBinario\ape_arbolBinario\obj\Debug\ape_arbolBinario.frmPrincipal.resources
